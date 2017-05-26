@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1442415184 source:c:\users\liaotuo\desktop\c++医院候诊系统\main.cpp
+	"hospital.h"
+
+1442415184 c:\users\liaotuo\desktop\c++医院候诊系统\hospital.h
+	<windows.h>
+	<ctime>
+	<cstdio>
+	<cstring>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1442417957 source:c:\users\liaotuo\desktop\c++医院候诊系统\hospital.cpp
+	"hospital.h"
+
+1442539276 source:h:\21 36 03医院候诊管理系统\c++医院候诊系统\hospital.cpp
+	"hospital.h"
+
+1442415184 h:\21 36 03医院候诊管理系统\c++医院候诊系统\hospital.h
+	<windows.h>
+	<ctime>
+	<cstdio>
+	<cstring>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1442415184 source:h:\21 36 03医院候诊管理系统\c++医院候诊系统\main.cpp
+	"hospital.h"
+
