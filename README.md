@@ -1,2 +1,2 @@
-# HospitalWaitingSystem
-C++实现的医院候诊管理系统
+# hospital-register-system
+医院候诊挂号系统

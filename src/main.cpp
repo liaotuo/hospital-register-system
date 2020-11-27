@@ -1,9 +1,9 @@
 #include"hospital.h"
-//-----------Ö÷º¯Êý--------------
+//-----------ä¸»å‡½æ•°--------------
 int main()
 {
     system("color 3F");
-    hospital hp; //¶¨ÒåÒ»¸ö¶ÔÏó
+    hospital hp; //å®šä¹‰ä¸€ä¸ªå¯¹è±¡
     hp.menu();
     return 0;
 }
